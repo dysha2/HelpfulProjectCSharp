@@ -37,7 +37,7 @@ namespace HelpfulProjectCSharp.ASP
             }
             return false;
         }
-        public IEnumerable<TEntity> Read<TEntity>() where TEntity : class
+        public List<TEntity> Read<TEntity>() where TEntity : class
         {
             return _context.Set<TEntity>().ToList();
         }

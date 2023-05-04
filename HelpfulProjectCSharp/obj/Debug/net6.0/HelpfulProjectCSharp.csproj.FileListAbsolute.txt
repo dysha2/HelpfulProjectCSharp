@@ -9,4 +9,3 @@ D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\HelpfulPro
 D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\HelpfulProjectCSharp.dll
 D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\ref\HelpfulProjectCSharp.dll
 D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\HelpfulProjectCSharp.pdb
-D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\HelpfulProjectCSharp.csproj.AssemblyReference.cache
