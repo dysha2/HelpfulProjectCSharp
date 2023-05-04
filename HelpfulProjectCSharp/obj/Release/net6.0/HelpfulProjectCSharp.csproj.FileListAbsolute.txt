@@ -1,0 +1,12 @@
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\bin\Release\net6.0\HelpfulProjectCSharp.deps.json
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\bin\Release\net6.0\HelpfulProjectCSharp.dll
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\bin\Release\net6.0\ref\HelpfulProjectCSharp.dll
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\bin\Release\net6.0\HelpfulProjectCSharp.pdb
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Release\net6.0\HelpfulProjectCSharp.csproj.AssemblyReference.cache
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Release\net6.0\HelpfulProjectCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Release\net6.0\HelpfulProjectCSharp.AssemblyInfoInputs.cache
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Release\net6.0\HelpfulProjectCSharp.AssemblyInfo.cs
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Release\net6.0\HelpfulProjectCSharp.csproj.CoreCompileInputs.cache
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Release\net6.0\HelpfulProjectCSharp.dll
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Release\net6.0\ref\HelpfulProjectCSharp.dll
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Release\net6.0\HelpfulProjectCSharp.pdb
