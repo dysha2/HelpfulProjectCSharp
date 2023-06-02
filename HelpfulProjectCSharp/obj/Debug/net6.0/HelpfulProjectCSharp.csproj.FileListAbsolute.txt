@@ -1,6 +1,5 @@
 D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\bin\Debug\net6.0\HelpfulProjectCSharp.deps.json
 D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\bin\Debug\net6.0\HelpfulProjectCSharp.dll
-D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\bin\Debug\net6.0\ref\HelpfulProjectCSharp.dll
 D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\bin\Debug\net6.0\HelpfulProjectCSharp.pdb
 D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\HelpfulProjectCSharp.GeneratedMSBuildEditorConfig.editorconfig
 D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\HelpfulProjectCSharp.AssemblyInfoInputs.cache
@@ -9,3 +8,5 @@ D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\HelpfulPro
 D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\HelpfulProjectCSharp.dll
 D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\ref\HelpfulProjectCSharp.dll
 D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\HelpfulProjectCSharp.pdb
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\HelpfulProjectCSharp.csproj.AssemblyReference.cache
+D:\MyProgs\HelpfulProjectCSharp\HelpfulProjectCSharp\obj\Debug\net6.0\refint\HelpfulProjectCSharp.dll
