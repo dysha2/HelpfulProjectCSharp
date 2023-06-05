@@ -17,6 +17,7 @@ namespace HelpfulProjectCSharp
             var tokenKey = Encoding.ASCII.GetBytes(key);
             DateTime ExpiresDateTime = DateTime.Today;
             ExpiresDateTime = ExpiresDateTime.AddHours(23);
+            ExpiresDateTime = ExpiresDateTime.AddMinutes(59);
             var tokenDescriptor = new SecurityTokenDescriptor
             {
                 Subject = identity,
