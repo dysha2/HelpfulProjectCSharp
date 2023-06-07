@@ -56,8 +56,11 @@ namespace HelpfulProjectCSharp
         }
         public static string GetPasswordSha256(string pas, string salt)
         {
-            if (pas.Length == 0) throw new NullReferenceException();
-            return Sha256Hash(pas + salt);
+            if ((!String.IsNullOrEmpty(pas)) && (!String.IsNullOrEmpty(salt)))
+            {
+                return Sha256Hash(pas + salt);
+            }
+            else throw new NullReferenceException();
         }
         private static string Sha256Hash(string rawData)
         {

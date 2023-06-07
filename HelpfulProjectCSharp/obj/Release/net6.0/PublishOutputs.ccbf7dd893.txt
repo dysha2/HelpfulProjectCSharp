@@ -1,0 +1,15 @@
+D:\MyProgs\SOCIS_API_RELEASE\HelpfulProjectCSharp.dll
+D:\MyProgs\SOCIS_API_RELEASE\HelpfulProjectCSharp.deps.json
+D:\MyProgs\SOCIS_API_RELEASE\HelpfulProjectCSharp.pdb
+D:\MyProgs\SOCIS_API_RELEASE\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MyProgs\SOCIS_API_RELEASE\Microsoft.EntityFrameworkCore.dll
+D:\MyProgs\SOCIS_API_RELEASE\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MyProgs\SOCIS_API_RELEASE\Microsoft.Extensions.Caching.Memory.dll
+D:\MyProgs\SOCIS_API_RELEASE\Microsoft.Extensions.DependencyInjection.dll
+D:\MyProgs\SOCIS_API_RELEASE\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MyProgs\SOCIS_API_RELEASE\Microsoft.IdentityModel.Logging.dll
+D:\MyProgs\SOCIS_API_RELEASE\Microsoft.IdentityModel.Protocols.dll
+D:\MyProgs\SOCIS_API_RELEASE\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MyProgs\SOCIS_API_RELEASE\Microsoft.IdentityModel.Tokens.dll
+D:\MyProgs\SOCIS_API_RELEASE\System.Diagnostics.DiagnosticSource.dll
+D:\MyProgs\SOCIS_API_RELEASE\System.IdentityModel.Tokens.Jwt.dll

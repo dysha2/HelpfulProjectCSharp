@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\SOCIS_API\HelpfulProjectCSharp.dll
+C:\inetpub\wwwroot\SOCIS_API\HelpfulProjectCSharp.deps.json
+C:\inetpub\wwwroot\SOCIS_API\HelpfulProjectCSharp.pdb
+C:\inetpub\wwwroot\SOCIS_API\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\inetpub\wwwroot\SOCIS_API\Microsoft.EntityFrameworkCore.dll
+C:\inetpub\wwwroot\SOCIS_API\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\inetpub\wwwroot\SOCIS_API\Microsoft.Extensions.Caching.Memory.dll
+C:\inetpub\wwwroot\SOCIS_API\Microsoft.Extensions.DependencyInjection.dll
+C:\inetpub\wwwroot\SOCIS_API\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\inetpub\wwwroot\SOCIS_API\Microsoft.IdentityModel.Logging.dll
+C:\inetpub\wwwroot\SOCIS_API\Microsoft.IdentityModel.Protocols.dll
+C:\inetpub\wwwroot\SOCIS_API\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\inetpub\wwwroot\SOCIS_API\Microsoft.IdentityModel.Tokens.dll
+C:\inetpub\wwwroot\SOCIS_API\System.Diagnostics.DiagnosticSource.dll
+C:\inetpub\wwwroot\SOCIS_API\System.IdentityModel.Tokens.Jwt.dll
