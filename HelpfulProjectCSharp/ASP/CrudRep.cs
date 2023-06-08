@@ -45,16 +45,16 @@ namespace HelpfulProjectCSharp.ASP
         {
             return _context.Set<TEntity>().Find(id);
         }
-        public bool Create<TEntity>(TEntity entity) where TEntity : class
+        public TEntity Create<TEntity>(TEntity entity) where TEntity : class
         {
             if (entity is not null)
             {
                 var DbSet = _context.Set<TEntity>();
                 DbSet.Add(entity);
                 _context.SaveChanges();
-                return true;
+                return entity;
             }
-            return false;
+            return null;
         }
         public bool Create<TEntity>(IEnumerable<TEntity> entities) where TEntity : class
         {
